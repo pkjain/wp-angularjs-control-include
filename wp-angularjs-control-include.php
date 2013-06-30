@@ -16,6 +16,6 @@ function waci_enqueue_js () {
     wp_enqueue_script('angularjs-js', plugins_url('js/angular.js', __FILE__), null, null, true);
   }
 }
-add_action('wp_enqueue_scripts', 'waci_enqueue_js_css');
+add_action('wp_enqueue_scripts', 'waci_enqueue_js');
 
 ?>
