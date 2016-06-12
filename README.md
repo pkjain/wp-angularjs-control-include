@@ -3,9 +3,9 @@ wp-angularjs-control-include
 
 
 # Wordpress plugin description
-Include angularjs javascript for a specific post (using custom field angularjs-include)
+Include angularjs javascript for a specific post (using custom field `wp-angularjs-include`)
 
-It is a wordpress plugin to include angularjs javascript file in wordpress posts or pages if custom field angularjs-include is set to true.
+It is a wordpress plugin to include angularjs javascript file in wordpress posts or pages if custom field `wp-angularjs-include` is set to `true`.
 
 # Author
 [infoheap](http://infoheap.com/)
